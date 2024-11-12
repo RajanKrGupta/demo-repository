@@ -7,3 +7,6 @@ branch1 -> local master -> remote
 
 branch1 created to be directly merged to github
 master ->new branch1 -> remote
+
+12-nov 2024
+comment added
